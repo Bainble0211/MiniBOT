@@ -12,7 +12,7 @@
 3. ~~**예외로 자신의 봇의 오픈소스를 원하지 않는다면 이 레파지토리 [링크](https://github.com/minibox724/MiniBOT/)와 제 `Minibox#1111`을 크레딧에 넣어주세요.**~~ 지금은 예외를 적용하지 않습니다
 
 ## 사용방법
-`config.py`를 수정하고 `lavalink/link.jar`를 자바로 실행한 다음 `run.py`를 실행해주세요.
+`/config.py`를 수정하고 [여기](https://ci.fredboat.com/repository/download/Lavalink_Build/8110:id/Lavalink.jar)를 눌러 라바링크를 `/lavalink/`에 다운받고 `/lavalink/Lavalink.jar`를 자바로 실행한 다음 `/run.py`를 실행해주세요.
 
 ---
 **다시 한번 강조합니다.**
