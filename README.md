@@ -14,6 +14,9 @@
 ## 사용방법
 `/config.py`를 수정하고 [여기](https://ci.fredboat.com/repository/download/Lavalink_Build/8110:id/Lavalink.jar)를 눌러 라바링크를 `/lavalink/`에 다운받고 `/lavalink/Lavalink.jar`를 자바로 실행한 다음 `/run.py`를 실행해주세요.
 
+## 참고
+eval, shell, lavalink: `fxrcha`
+
 ---
 **다시 한번 강조합니다.**
 
